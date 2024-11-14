@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin 
 - 📫 How to reach me: gabooshify@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Broke my arm in my doctor's office
+- ⚡ Fun Fact: Big Tottenham Hotspur fan. COYS!
 
 <!---
 gabooshify/gabooshify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
